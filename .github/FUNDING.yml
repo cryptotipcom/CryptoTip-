@@ -1,0 +1,8 @@
+github: []  # Leave empty unless GitHub Sponsors is enabled
+patreon: CryptoTipOfficial  # Replace with your Patreon username if available
+buy_me_a_coffee: cryptotip  # Replace with your Buy Me a Coffee username if available
+
+custom: 
+  - 'https://www.paypal.me/cryptotip'  # PayPal donation link
+  - 'https://t.me/CryptoTipOfficial'  # Telegram for community support
+  - 'https://bscscan.com/address/0x7Cca49D947d9a304597ca14f731F7E4C9E6F38A5'  # TIP Wallet (BSC)
